@@ -2,5 +2,5 @@
 Simple ReactJs Calculator || Light / Dark Mode Toggle  
 
 
-https://user-images.githubusercontent.com/85895496/123553278-e364ce00-d797-11eb-86b8-dd436a7fd349.mp4
+![VID-20210618-WA0011_1471](https://user-images.githubusercontent.com/85895496/123553411-a1885780-d798-11eb-8349-8271b9c601e1.gif)
 
